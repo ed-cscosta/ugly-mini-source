@@ -10,4 +10,4 @@ Article: [https://youtu.be/la0312YZJ9Y](https://youtu.be/la0312YZJ9Y)
 
 Basic project to minify, uglify, and generate source map for JS file.
 
-<p>Follow [Erick Wendel](https://erickwendel.com.br/)</p>
+Follow [Erick Wendel](https://erickwendel.com.br/)
